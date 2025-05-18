@@ -1,2 +1,2 @@
 # LandingPage-Odin
-This is a basic landing page under the Odin-Project
+This is a basic landing page under the Odin-Project.
